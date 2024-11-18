@@ -21,8 +21,8 @@ This Laravel application fetches data from the MyAnimeList API and stores the AP
 2. Install vandor packages
    ```bash
    composer install    
-3. Create .env file: by copying .env.example and renaming then update the database  connection dtails
-   ```bash
+3. Create .env file: by  renaming then update the database  connection details
+   
 4. Regenerate your App key
    ```bash
    php artisan key:generate  
